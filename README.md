@@ -1,2 +1,1 @@
-# Human-Action-Detection
-upcoming project
+# Frozen Lake with Q Learning
