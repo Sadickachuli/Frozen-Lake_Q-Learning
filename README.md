@@ -1,1 +1,1 @@
-# Frozen Lake(unslippery) with Q Learning
+# Frozen Lake(unslippery) with Q- Learning
